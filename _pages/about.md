@@ -9,9 +9,9 @@ redirect_from:
 
 > **I'm on the faculty job market this cycle.** My [CV](/files/cv.pdf) and research statement are linked here.
 
-<div class="pull-quote">
+<!-- <div class="pull-quote">
 These choices raise the following question: is it unfair if the tool that I make solves the problem that I care about but does not solve yours? Or structuralizes or otherwise exacerbates yours? Well no…and to some extent yes. Sigh, the go-to response of an ethics researcher. No, to the extent to which scoping decisions must always be made and current epistemic limitations exist. But also yes, to the extent to which your solution interferes with the abilities of others, exerts undue influence, or obfuscates key limitations, therefore infringing on the fundamental rights to freedom, agency, and autonomy of others.
-</div>
+</div> -->
 
 I do multidisciplinary research in **responsible machine learning**, **algorithmic fairness and recourse**, **user agency**, and **representational bias/harms**, primarily through a sociotechnical lens. My work spans philosophy, policy, and data science, using empirical and technically grounded methods to construct conceptually coherent frameworks for policy recommendations.
 
