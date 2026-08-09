@@ -79,3 +79,99 @@ blockquote {
 .btn:hover {
   background-color: var(--accent-magenta);
 }
+
+/* ---- Spacing pass: more breathing room throughout ---- */
+
+.masthead__inner-wrap {
+  padding: 1.1em 1.5em;
+}
+
+.page {
+  margin-top: 3em;
+}
+
+.page__content {
+  font-size: 1.05em;
+  line-height: 1.75;
+}
+
+.page__content p {
+  margin-bottom: 1.4em;
+}
+
+.page__content h2 {
+  margin-top: 2.6em;
+  margin-bottom: 1.1em;
+  letter-spacing: 0.01em;
+}
+
+.page__content h3 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+}
+
+.sidebar {
+  padding-right: 1em;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  max-width: 160px;
+}
+
+.author__avatar {
+  margin-bottom: 0.5em;
+}
+
+.author__content {
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.author__content .author__name {
+  margin-bottom: 0.3em;
+}
+
+.author__bio {
+  margin-bottom: 1.2em;
+}
+
+.author__urls-wrapper, .author__urls {
+  text-align: center;
+  margin-top: 0.8em;
+}
+
+.archive__item {
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.archive__item:last-child {
+  border-bottom: none;
+}
+
+.archive__item-title {
+  margin-bottom: 0.5em;
+}
+
+.pull-quote {
+  font-family: "Newsreader", Georgia, serif;
+  font-style: italic;
+  font-size: 1.25em;
+  line-height: 1.6;
+  color: var(--global-text-color);
+  border-left: 4px solid var(--accent-turquoise);
+  padding: 0.3em 1.6em;
+  margin: 1em 0 2.4em;
+}
+
+blockquote {
+  border-left: 4px solid var(--accent-magenta);
+  background: var(--global-footer-bg-color);
+  padding: 1em 1.4em;
+  margin: 0.5em 0 2.4em;
+  border-radius: 2px;
+  font-style: normal;
+}
