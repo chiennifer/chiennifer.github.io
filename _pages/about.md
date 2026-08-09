@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> **I'm on the faculty job market this cycle.** My [CV](/files/cv.pdf) and research statement are linked here.
+> **I'm on the faculty job market this cycle.**
 
 <!-- <div class="pull-quote">
 These choices raise the following question: is it unfair if the tool that I make solves the problem that I care about but does not solve yours? Or structuralizes or otherwise exacerbates yours? Well no…and to some extent yes. Sigh, the go-to response of an ethics researcher. No, to the extent to which scoping decisions must always be made and current epistemic limitations exist. But also yes, to the extent to which your solution interferes with the abilities of others, exerts undue influence, or obfuscates key limitations, therefore infringing on the fundamental rights to freedom, agency, and autonomy of others.
