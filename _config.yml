@@ -83,8 +83,10 @@ author:
 publication_category:   
   conferences:
     title: 'Peer-Reviewed Publications'
-  in progress:
-    title: 'In Submission and In Preparation Works'  
+  submitted:
+    title: 'In Submission and In Preparation Works'
+  workshops:
+    title: 'Peer-Reviewed Workshop Papers'
   white papers:
     title: 'White Papers'
 
