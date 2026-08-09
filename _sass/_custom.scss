@@ -1,0 +1,81 @@
+/* ==========================================================================
+   CUSTOM THEME — Talavera-inspired, shifts hue between light & dark
+   ========================================================================== */
+
+$display-font : "Newsreader", Georgia, serif;
+$body-font     : "Work Sans", -apple-system, "Helvetica Neue", Arial, sans-serif;
+
+$global-font-family  : $body-font;
+$header-font-family  : $display-font;
+$caption-font-family : $body-font;
+
+/* ---- Light mode (day — Talavera pottery / clay tones) ---- */
+:root {
+  --global-base-color                 : #1C4E9C;
+  --global-bg-color                   : #FDFCF9;
+  --global-footer-bg-color            : #F1EFE9;
+  --global-border-color               : #E3E0D7;
+  --global-dark-border-color          : #CFC9B8;
+  --global-code-background-color      : #F1EFE9;
+  --global-code-text-color            : #3A342C;
+  --global-text-color                 : #211E1B;
+  --global-text-color-light           : #6B6459;
+  --global-link-color                 : #1C4E9C;
+  --global-link-color-hover           : #D6247A;
+  --global-link-color-visited         : #7A4B8C;
+  --global-masthead-link-color        : #211E1B;
+  --global-masthead-link-color-hover  : #1C4E9C;
+  --global-thead-color                : #E3E0D7;
+
+  --accent-cobalt   : #1C4E9C;
+  --accent-magenta  : #D6247A;
+  --accent-marigold : #F2A93C;
+  --accent-turquoise: #1C9C8E;
+}
+
+/* ---- Dark mode (night — papel picado under string lights) ---- */
+html[data-theme="dark"] {
+  --global-base-color                 : #7B61FF;
+  --global-bg-color                   : #15120F;
+  --global-footer-bg-color            : #1F1A15;
+  --global-border-color               : #332C23;
+  --global-dark-border-color          : #46392D;
+  --global-code-background-color      : #1F1A15;
+  --global-code-text-color            : #E4DCCF;
+  --global-text-color                 : #F3ECE1;
+  --global-text-color-light           : #B9AF9E;
+  --global-link-color                 : #7B61FF;
+  --global-link-color-hover           : #FF3FA6;
+  --global-link-color-visited         : #B98CE0;
+  --global-masthead-link-color        : #F3ECE1;
+  --global-masthead-link-color-hover  : #7B61FF;
+  --global-thead-color                : #332C23;
+
+  --accent-cobalt   : #7B61FF;
+  --accent-magenta  : #FF3FA6;
+  --accent-marigold : #FFA23C;
+  --accent-turquoise: #2EE6A8;
+}
+
+/* Signature flourish: gradient rule under the masthead */
+.masthead::after {
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent-cobalt) 0%, var(--accent-magenta) 34%, var(--accent-marigold) 67%, var(--accent-turquoise) 100%);
+}
+
+/* Marigold underline on section headings */
+.page__content h2 {
+  display: inline-block;
+  padding-bottom: 0.2em;
+  border-bottom: 3px solid var(--accent-marigold);
+}
+
+/* Warm blockquote / banner accent */
+blockquote {
+  border-left: 4px solid var(--accent-magenta);
+  background: var(--global-footer-bg-color);
+}
+
+.btn:hover {
+  background-color: var(--accent-magenta);
+}
