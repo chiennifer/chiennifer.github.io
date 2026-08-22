@@ -1,0 +1,11 @@
+---
+title: "Representations - How We Shape Them and How They Shape Us"
+collection: talks
+type: "Talk"
+permalink: /talks/2025-12-talk-5
+venue: "University of San Diego"
+date: 2025-12-01
+location: "San Diego, CA, USA"
+---
+
+This talk traces the evolving meaning of representation: from the early days of symbolic AI, when researchers sought to model human cognition through explicit world-models, to today’s generative systems that learn statistical representations from datasets. In the shift from modeling to generation, representation has transformed the question of how machines know the world to how machines participate in constructing it. I first situate representation historically within AI’s technical lineage, tracing the move from symbolic reasoning to data-driven learning. I contrast these definitions with social dimensions of representation: what it means to be represented in media and cultural narratives, and how visibility shapes identity and belonging. Finally, I examine how generative AI systems contribute to both technical and social senses of representation, shaping what is visible, imaginable, and possible. As generative systems begin to shape what can be seen and conceived, this new representational order demands renewed ethical attention. It calls for new methods of evaluation, new frameworks for accountability, and new forms of deliberation about which representational baselines ought to guide collective notions of representation.
