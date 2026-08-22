@@ -1,0 +1,23 @@
+---
+title: "Representational Defaults and the  Challenge of Pluralism for Generative AI"
+collection: talks
+type: "Talk"
+permalink: /talks/2026-06-talk-6
+venue: "Tech for Impact Seminar at IBM"
+date: 2026-06-01
+location: "Virtual"
+---
+
+In the talk titled, I will explore a central tension in decisions in generative AI representations: 
+current approaches to "fixing" representational harms often push toward convergence — 
+consensus on what is appropriate, standardized evaluations, universal guidelines. 
+But lived experiences of representation demand the opposite: multiplicity, context-dependence, 
+the ability to be legible in some contexts while pushing boundaries in others. In this talk I provide 
+high-level guidance that required a focus not only on the distributional effects of disparities in 
+representations, but also the process of creating with generative AI, shaping what possibilities are thinkable,
+imaginable, and relevant. I enumerate design opportunities: 
+namely 1) context-conditional defaults and friction, for a system that aims to broaden our horizons 
+(or set of possibilities), and 2) artifacts for representational provenance, that aim to carry some of the 
+context alongside AI-generated content, creating opportunities for critical and measured engagement. 
+Overall, the proposed affordances asked us to think about what a representation is intended to depict and 
+stand for, who it's for, and how it that context is carried (or removed) as it is ported into different contexts.
