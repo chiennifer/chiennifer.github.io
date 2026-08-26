@@ -296,3 +296,9 @@ blockquote {
 .update-text {
   flex: 1 1 auto;
 }
+
+.section-divider {
+  border: none;
+  border-top: 1px solid var(--global-border-color);
+  margin: 0.3em 0 1.6em;
+}
