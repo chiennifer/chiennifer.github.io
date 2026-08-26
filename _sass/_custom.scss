@@ -177,17 +177,26 @@ blockquote {
 }
 
 /* Push nav links to the right, title stays on the left */
-.greedy-nav .visible-links {
+.masthead__menu {
   display: flex;
   align-items: center;
-  width: 100%;
+  justify-content: space-between;
+  flex-wrap: nowrap;
 }
 
-.greedy-nav .visible-links li {
+.masthead__menu .site-title-wrap {
+  font-weight: 700;
+  white-space: nowrap;
+  padding-right: 1.5em;
+}
+
+.masthead__menu .site-title-wrap a {
+  color: var(--global-masthead-link-color);
+  text-decoration: none;
+}
+
+.greedy-nav {
+  flex: 1 1 auto;
   display: flex;
-  align-items: center;
-}
-
-.greedy-nav .visible-links li:first-child {
-  margin-right: auto;
+  justify-content: flex-end;
 }
