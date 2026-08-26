@@ -9,4 +9,6 @@ venue: 'CHI Late Breaking Work (LBW) 2024'
 paperurl: 'https://dl.acm.org/doi/10.1145/3613905.3650999'
 citation: 'Jennifer Chien, Kevin R. McKee, Jackie Kay, William Isaac. (2024). &quot;Recourse for Reclamation: Chatting with Generative Language Models.&quot; <i>CHI Late Breaking Work (LBW) 2024</i>.'
 image: /images/publications/reclaimtox.png
+topics: ["Algorithmic Recourse"]
+featured: "Featured by Hugging Face"
 ---
