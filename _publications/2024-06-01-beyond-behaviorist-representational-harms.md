@@ -9,4 +9,6 @@ venue: 'FAccT'
 paperurl: 'https://dl.acm.org/doi/10.1145/3630106.3658946'
 citation: 'Jennifer Chien, David Danks. (2024). &quot;Beyond Behaviorist Representational Harms: A Plan for Measurement and Mitigation.&quot; <i>FAccT 2024</i>.'
 image: /images/publications/beyondbeh.png
+topics: ["Representational Harms & Bias"]
+featured: "Invited Talk at Microsoft"
 ---
