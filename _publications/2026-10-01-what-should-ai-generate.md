@@ -10,4 +10,5 @@ paperurl: 'https://www.researchgate.net/publication/411900537_What_Should_AI_Gen
 citation: 'Jennifer Chien. (Forthcoming). &quot;What Should AI Generate? Moving Beyond Bias in Generative Systems.&quot; <i>AIES 2026</i>.'
 image: /images/publications/whatshouldaigenerate.png
 topics: ["Representational Harms & Bias"]
+featured: "Invited Talk at IBM"
 ---
