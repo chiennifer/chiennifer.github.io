@@ -124,13 +124,14 @@ blockquote p:last-child {
   padding-right: 1em;
 }
 
+.author__avatar {
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
 .author__avatar img {
   border-radius: 50%;
   max-width: 160px;
-}
-
-.author__avatar {
-  margin-bottom: 0.5em;
 }
 
 .author__content {
