@@ -175,3 +175,19 @@ blockquote {
   border-radius: 2px;
   font-style: normal;
 }
+
+/* Push nav links to the right, title stays on the left */
+.greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.greedy-nav .visible-links li {
+  display: flex;
+  align-items: center;
+}
+
+.greedy-nav .visible-links li:first-child {
+  margin-right: auto;
+}
