@@ -136,7 +136,8 @@ blockquote p:last-child {
   max-width: 160px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center 25%;
+  transform: scale(1.5) translateY(10%);
+  transform-origin: center;
 }
 
 .author__content {
