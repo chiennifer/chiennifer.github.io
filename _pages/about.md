@@ -17,6 +17,9 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 
 **Research interests:** Responsible Artificial Intelligence/Machine Learning, Algorithmic Fairness, Algorithmic Recourse, User Agency, Representational Bias/Harms, Sociotechnical Research, Sequential Decision Making, Ethical, Trustworthy, and Safe AI
 
+</div>
+<aside class="home-updates" markdown="1">
+
 ### Recent updates
 - **October 2026:** "What Should AI Generate? Moving Beyond Bias in Generative Systems" accepted to AIES 2026
 - **October 2026:** "Making Room for Speech Diversity" accepted to Interspeech 2026
@@ -26,3 +29,25 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 - **December 2025:** Invited talk at USD, "Representations: How We Shape Them and How They Shape Us"
 - **September 2025:** Started my postdoc at Stanford University
 - **June 2025:** Successfully defended my [dissertation](https://escholarship.org/uc/item/7br693r0) and graduated!
+
+</aside>
+</div>
+
+### Recent updates
+- **October 2026:** "What Should AI Generate? Moving Beyond Bias in Generative Systems" accepted to AIES 2026
+- **October 2026:** "Making Room for Speech Diversity" accepted to Interspeech 2026
+- **August 2026:** Interviewed by Instyle Magazine for ["Is AI Face Coming for All of Us?"](https://www.instyle.com/how-ai-is-changing-plastic-surgery-in-2026-12013876)
+- **June 2026:** Invited Speaker on the Dialexicon Podcast called ["Unpacking the AI Doom Spiral"](https://open.spotify.com/episode/4rurvKuhfDIvIIbEI8IXec?si=bf692abda2cf45cf&nd=1&dlsi=904f00f88b3e474a)
+- **June 2026:** "Making Ethics Matter: Relatable Pedagogical Approaches for Every Computer Science Student" accepted to RESPECT 2026
+- **December 2025:** Invited talk at USD, "Representations: How We Shape Them and How They Shape Us"
+- **September 2025:** Started my postdoc at Stanford University
+- **June 2025:** Successfully defended my [dissertation](https://escholarship.org/uc/item/7br693r0) and graduated!
+
+### Selected Publications
+
+{% include base_path %}
+{% for post in site.publications reversed %}
+  {% if post.category == 'conferences' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
