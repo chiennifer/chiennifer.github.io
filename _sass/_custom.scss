@@ -208,11 +208,18 @@ blockquote p:last-child {
 .pub-thumb-img {
   width: 200px;
   height: 140px;
+  max-width: none;
   border-radius: 8px;
   object-fit: cover;
   display: block;
   border: 1px solid var(--global-border-color);
   transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.pub-thumb-link {
+  flex-shrink: 0;
+  display: block;
+  width: 200px;
 }
 
 .pub-thumb-link:hover .pub-thumb-img {
