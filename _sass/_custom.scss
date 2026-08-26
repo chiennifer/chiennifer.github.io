@@ -206,3 +206,7 @@ blockquote {
   display: flex;
   justify-content: flex-end;
 }
+
+.visible-links li:first-child {
+  font-weight: normal;
+}
