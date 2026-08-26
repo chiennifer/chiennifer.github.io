@@ -9,4 +9,5 @@ venue: 'ML4H'
 paperurl: 'https://arxiv.org/abs/2211.06525'
 citation: 'Jennifer Chien, Anna Guitart, Ana Fernández del Río, África Periáñez, Lauren Bellhouse. (2022). &quot;Actionable Recourse via GANs for Mobile Health.&quot; <i>ML4H 2022</i>.'
 image: /images/publications/gans.png
+topics: ["Algorithmic Recourse"]
 ---
