@@ -34,6 +34,8 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 
 </aside>
 
+<hr class="section-divider" />
+
 ### Selected Publications
 
 {% include base_path %}
@@ -42,3 +44,6 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<hr class="section-divider" />
+
