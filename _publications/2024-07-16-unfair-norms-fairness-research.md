@@ -3,7 +3,7 @@ title: "(Unfair) Norms in Fairness Research: A Meta-Analysis"
 collection: publications
 category: white papers
 permalink: /publication/unfair-norms-fairness-research
-excerpt: 'A meta-analysis of 139 algorithmic fairness papers from AIES and FAccT (2018-2022) reveals a dominant US-centric perspective and widespread reliance on binary codifications of human identity, overlooking the complexities of identity and lived experiences. We offer recommendations for more inclusive and representative approaches to fairness in AI.'
+excerpt: 'A meta-analysis of 139 fairness papers reveals a US-centric, binary approach to identity, with recommendations for more inclusive framings.'
 date: 2024-07-16
 venue: 'white papers'
 paperurl: 'https://arxiv.org/pdf/2407.16895'
