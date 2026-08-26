@@ -3,7 +3,7 @@ title: "Actionable Recourse via GANs for Mobile Health"
 collection: publications
 category: conferences
 permalink: /publication/actionable-recourse-gans-mobile-health
-excerpt: 'Mobile health apps provide a unique means of collecting data used to deliver adaptive interventions. Recourse via counterfactuals provides mechanisms to modify user predictions. We demonstrate the feasibility of GAN-generated recourse for medium-term engagement prediction in the Safe Delivery App, a digital training tool for skilled birth attendants.'
+excerpt: 'Demonstrates GAN-generated recourse for improving engagement prediction in a maternal health training app for birth attendants.'
 date: 2022-11-01
 venue: 'ML4H'
 paperurl: 'https://arxiv.org/abs/2211.06525'
