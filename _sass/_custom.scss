@@ -168,21 +168,20 @@ blockquote p:last-child {
 
 .archive__item--with-thumb {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 1em;
   padding: 1em 1.2em;
   border: 1px solid var(--global-border-color);
   border-radius: 8px;
   margin-bottom: 1.1em;
-  /* override the generic .archive__item bottom-border/spacing rule */
   border-bottom: 1px solid var(--global-border-color);
   padding-bottom: 1em;
 }
 
 .archive__item--with-thumb .pub-thumb {
-  width: 120px;
-  height: 76px;
-  font-size: 1.3rem;
+  width: 200px;
+  height: 140px;
+  font-size: 1.8rem;
 }
 
 .archive__item--with-thumb .archive__item-title {
@@ -207,8 +206,8 @@ blockquote p:last-child {
 }
 
 .pub-thumb-img {
-  width: 120px;
-  height: 76px;
+  width: 200px;
+  height: 140px;
   border-radius: 8px;
   object-fit: cover;
   display: block;
