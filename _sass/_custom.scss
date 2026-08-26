@@ -82,6 +82,10 @@ blockquote {
   background: var(--global-footer-bg-color);
 }
 
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 .btn:hover {
   background-color: var(--accent-magenta);
 }
