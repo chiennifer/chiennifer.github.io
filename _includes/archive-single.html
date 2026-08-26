@@ -52,7 +52,21 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <div class="pub-tags">
+            {% if post.venue %}<span class="pub-tag pub-tag--venue">{{ post.venue }}</span>{% endif %}
+            {% if post.topics %}
+              {% for topic in post.topics %}
+                {% if topic == "Algorithmic Recourse" %}
+                  <span class="pub-tag pub-tag--recourse">{{ topic }}</span>
+                {% elsif topic == "Representational Harms & Bias" %}
+                  <span class="pub-tag pub-tag--representation">{{ topic }}</span>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+            {% if post.award %}<span class="pub-tag pub-tag--award">&#9733; {{ post.award }}</span>{% endif %}
+            {% if post.featured %}<span class="pub-tag pub-tag--featured">{{ post.featured }}</span>{% endif %}
+            {% if post.metric %}<span class="pub-tag pub-tag--metric">{{ post.metric }}</span>{% endif %}
+          </div>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
