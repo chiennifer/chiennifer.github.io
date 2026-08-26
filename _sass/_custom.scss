@@ -179,6 +179,12 @@ blockquote p:last-child {
   padding-bottom: 1em;
 }
 
+.archive__item--with-thumb .pub-thumb {
+  width: 120px;
+  height: 76px;
+  font-size: 1.3rem;
+}
+
 .archive__item--with-thumb .archive__item-title {
   margin-bottom: 0.2em;
   font-size: 1em;
