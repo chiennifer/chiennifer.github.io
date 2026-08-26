@@ -238,6 +238,55 @@ blockquote p:last-child {
   opacity: 0.9;
 }
 
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-bottom: 0.5em;
+}
+
+.pub-tag {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  padding: 0.2em 0.7em;
+  border-radius: 20px;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+.pub-tag--venue {
+  background: var(--global-footer-bg-color);
+  color: var(--global-text-color-light);
+  border: 1px solid var(--global-border-color);
+}
+
+.pub-tag--recourse {
+  background: rgba(28, 78, 156, 0.12);
+  color: var(--accent-cobalt);
+}
+
+.pub-tag--representation {
+  background: rgba(214, 36, 122, 0.12);
+  color: var(--accent-magenta);
+}
+
+.pub-tag--award {
+  background: rgba(242, 169, 60, 0.18);
+  color: #9c6b1c;
+}
+
+.pub-tag--featured {
+  background: rgba(28, 156, 142, 0.12);
+  color: var(--accent-turquoise);
+}
+
+.pub-tag--metric {
+  background: transparent;
+  color: var(--global-text-color-light);
+  border: 1px solid var(--global-border-color);
+}
+
 .archive__item--with-thumb .pub-thumb {
   width: 56px;
   height: 56px;
