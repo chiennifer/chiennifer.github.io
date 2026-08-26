@@ -21,14 +21,16 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 <aside class="home-updates" markdown="1">
 
 ### Recent Updates
-- **October 2026:** "What Should AI Generate? Moving Beyond Bias in Generative Systems" accepted to AIES 2026
-- **October 2026:** "Making Room for Speech Diversity" accepted to Interspeech 2026
-- **August 2026:** Interviewed by Instyle Magazine for ["Is AI Face Coming for All of Us?"](https://www.instyle.com/how-ai-is-changing-plastic-surgery-in-2026-12013876)
-- **June 2026:** Invited Speaker on the Dialexicon Podcast called ["Unpacking the AI Doom Spiral"](https://open.spotify.com/episode/4rurvKuhfDIvIIbEI8IXec?si=bf692abda2cf45cf&nd=1&dlsi=904f00f88b3e474a)
-- **June 2026:** "Making Ethics Matter: Relatable Pedagogical Approaches for Every Computer Science Student" accepted to RESPECT 2026
-- **December 2025:** Invited talk at USD, "Representations: How We Shape Them and How They Shape Us"
-- **September 2025:** Started my postdoc at Stanford University
-- **June 2025:** Successfully defended my [dissertation](https://escholarship.org/uc/item/7br693r0) and graduated!
+<ul class="updates-list">
+  <li><span class="update-date">Oct 2026</span><span class="update-text">"What Should AI Generate? Moving Beyond Bias in Generative Systems" accepted to AIES 2026</span></li>
+  <li><span class="update-date">Oct 2026</span><span class="update-text">"Making Room for Speech Diversity" accepted to Interspeech 2026</span></li>
+  <li><span class="update-date">Aug 2026</span><span class="update-text">Interviewed by Instyle Magazine for <a href="https://www.instyle.com/how-ai-is-changing-plastic-surgery-in-2026-12013876">"Is AI Face Coming for All of Us?"</a></span></li>
+  <li><span class="update-date">Jun 2026</span><span class="update-text">Invited Speaker on the Dialexicon Podcast called <a href="https://open.spotify.com/episode/4rurvKuhfDIvIIbEI8IXec?si=bf692abda2cf45cf&nd=1&dlsi=904f00f88b3e474a">"Unpacking the AI Doom Spiral"</a></span></li>
+  <li><span class="update-date">Jun 2026</span><span class="update-text">"Making Ethics Matter: Relatable Pedagogical Approaches for Every Computer Science Student" accepted to RESPECT 2026</span></li>
+  <li><span class="update-date">Dec 2025</span><span class="update-text">Invited talk at USD, "Representations: How We Shape Them and How They Shape Us"</span></li>
+  <li><span class="update-date">Sep 2025</span><span class="update-text">Started my postdoc at Stanford University</span></li>
+  <li><span class="update-date">Jun 2025</span><span class="update-text">Successfully defended my <a href="https://escholarship.org/uc/item/7br693r0">dissertation</a> and graduated!</span></li>
+</ul>
 
 </aside>
 
