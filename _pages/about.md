@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> **I'm on the faculty job market this cycle.**
+> **I'm on the faculty job market this cycle (Fall 2026).**
 
 My work asks how we can design systems that remain responsive to the users and contexts throughout deployment (i.e., when their original assumptions do not hold). I develop mechanisms that collect corrective data by enabling users to override decisions and evaluation methodologies to show that they succeeded. My work thus far has examined two key facets of user agency: instrumental agency (i.e., what a user can do), and cognitive and epistemic agency (i.e., what a user can think or know), through feedback mechanisms, formal fairness guarantees, post-deployment mitigation strategies, and actionable evaluation metrics and design criteria.
 
