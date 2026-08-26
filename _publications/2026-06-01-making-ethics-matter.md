@@ -7,5 +7,5 @@ excerpt: "Computer science (CS) increasingly shapes our lives, making ethical re
 date: 2026-06-01
 venue: 'RESPECT'
 paperurl: 'https://dl.acm.org/doi/10.1145/3796496.3811808'
-citation: 'Louie Ortiz and Jennifer Chien. 2026. &quot;Making Ethics Matter: Relatable Pedagogical Approaches for Every Computer Science Student.&quot; <i>RESPECT 2026)</i>.'
+citation: 'Louie Ortiz and Jennifer Chien. 2026. &quot;Making Ethics Matter: Relatable Pedagogical Approaches for Every Computer Science Student.&quot; <i>RESPECT 2026</i>.'
 ---
