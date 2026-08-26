@@ -8,4 +8,5 @@ date: 2024-04-01
 venue: 'CHI 2024'
 paperurl: 'https://dl.acm.org/doi/10.1145/3613904.3642703'
 citation: 'William Agnew, A. Stevie Bergman, Jennifer Chien, Mark Diaz, Seliem El-Sayed, Jaylen Pittman, Shakir Mohamed, Kevin R. McKee. (2024). &quot;The Illusion of Artificial Inclusion.&quot; <i>CHI 2024</i>.'
+image: /images/publications/illusion.png
 ---
