@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jennifer Chien"
+title                    : "Jennifer Chien, PhD"
 title_separator          : "-"
 name                     : &name "Jennifer Chien"
 description              : &description "Jennifer Chien's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "pro pic no background.png"
   name             : "Jennifer Chien"
   pronouns         : # example: "she/her"  
-  bio              : "AI Ethics Researcher"
-  location         : "Palo Alto, CA"
+  bio              : "AI Ethics Researcher<br>drchien@stanford.edu"
+  # location         : "Palo Alto, CA"
   employer         : "Stanford University"
   uri              : # URL
-  email            : "drchien@stanford.edu" 
+  # email            : "drchien@stanford.edu" 
   cv               : "/files/cv.pdf"
 
   # Academic websites
