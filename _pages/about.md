@@ -32,7 +32,7 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 </ul>
 </aside>
 
-<br><br>
+<br>
 <hr class="section-divider" />
 
 ### Selected Publications
