@@ -19,7 +19,6 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
 
 
 <aside class="home-updates" markdown="1">
-
 ### Recent Updates
 <ul class="updates-list">
   <li><span class="update-date">Oct 2026</span><span class="update-text">"What Should AI Generate? Moving Beyond Bias in Generative Systems" accepted to AIES 2026</span></li>
@@ -31,9 +30,9 @@ My work has been published in top AI ethics venues ACM FAccT, AAAI/ACM AIES, EAA
   <li><span class="update-date">Sep 2025</span><span class="update-text">Started my postdoc at Stanford University</span></li>
   <li><span class="update-date">Jun 2025</span><span class="update-text">Successfully defended my <a href="https://escholarship.org/uc/item/7br693r0">dissertation</a> and graduated!</span></li>
 </ul>
-
 </aside>
 
+<br><br>
 <hr class="section-divider" />
 
 ### Selected Publications
